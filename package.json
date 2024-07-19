@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "express-await": "0.0.4",
     "helmet": "^4.1.0",
-    "mongoose": "^5.9.28",
+    "mongoose": "^5.13.22",
     "validator": "^13.1.1"
   }
 }
